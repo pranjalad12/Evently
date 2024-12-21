@@ -3,8 +3,7 @@ import React from 'react'
 import Image from 'next/image'
 
 import {
-    ClerkProvider,
-    SignInButton,
+   
     SignedIn,
     SignedOut,
     UserButton

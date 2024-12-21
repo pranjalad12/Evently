@@ -4,9 +4,7 @@ import { Separator } from "@/components/ui/separator"
 import {
     Sheet,
     SheetContent,
-    SheetDescription,
-    SheetHeader,
-    SheetTitle,
+    
     SheetTrigger,
 } from "@/components/ui/sheet"
 import Image from 'next/image'
