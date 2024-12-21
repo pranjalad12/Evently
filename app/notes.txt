@@ -1,0 +1,9 @@
+After installing packages we need to rerun our application. 
+
+for css always use tailwind and can use components like shadcn etc.
+
+1. For making the projects u will have different folders handling different routes. 
+2. Define global css and global fonts to be used, by writing in layout.tsx it makes it possible for all pages. 
+3. use of shadcn for making components
+4. using flex for most things and width full height full etc.
+5. making components for basic things
